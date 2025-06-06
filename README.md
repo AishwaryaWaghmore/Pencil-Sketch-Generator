@@ -57,3 +57,5 @@ Input Image:
 ![alt text](https://github.com/AishwaryaWaghmore/Pencil-Sketch-Generator/blob/main/images/pin.jpeg?raw=true)
 
 Output Pencil Sketch:
+
+![alt text](https://github.com/AishwaryaWaghmore/Pencil-Sketch-Generator/blob/main/images/pin_pencil_sketch.jpeg?raw=true)
