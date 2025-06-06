@@ -54,7 +54,6 @@ Usage
 Example
 Input Image:
 
+![alt text](https://github.com/AishwaryaWaghmore/Pencil-Sketch-Generator/blob/main/images/pin.jpeg?raw=true)
 
-
-(Replace this placeholder with an actual example input image.)
 Output Pencil Sketch:
