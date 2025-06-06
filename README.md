@@ -58,4 +58,4 @@ Input Image:
 
 Output Pencil Sketch:
 
-![alt text](https://github.com/AishwaryaWaghmore/Pencil-Sketch-Generator/blob/main/images/pin_pencil_sketch.jpeg?raw=true)
+![alt text](https://github.com/AishwaryaWaghmore/Pencil-Sketch-Generator/blob/main/images/pin_pencil_sketch.jpg?raw=true)
